@@ -167,11 +167,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - React Three Fiber for React integration
 - All the historical legends who inspire us
 
-## 📧 Contact
-
-For questions or feedback:
-- Open an issue on GitHub
-- Email: your-email@example.com
 
 ## 🗺️ Roadmap
 
